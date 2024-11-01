@@ -1,0 +1,16 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, .8) 0%, rgba(0, 0, 0, 0.1) 50%), url("https://www.seppic.com/sites/seppic/files/styles/full_width_content_x2/public/2021/10/18/Pet%20care%20products_740x380.webp?h=fd914ab0&itok=fKzGDRZz");
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+}
+
